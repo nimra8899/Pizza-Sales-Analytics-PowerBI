@@ -10,7 +10,8 @@ The objective was to transform raw transactional pizza sales data into an intera
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1242" height="777" alt="output" src="https://github.com/user-attachments/assets/e972843a-a27d-44ca-80e2-062b61546368" />
+
 
 ---
 
@@ -284,9 +285,3 @@ Key findings:
 - Drill-through Pages
 - Row-Level Security
 - Power BI Service Deployment
-- # Output
-- ![Uploading output.png…]()
-
-
-  
----
